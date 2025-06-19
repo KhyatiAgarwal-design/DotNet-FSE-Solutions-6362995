@@ -1,1 +1,1 @@
-# DotNet-FSE-I-Deep-Skilling-Solutions
+# DotNet-FSE-Deep-Skilling-Solutions
