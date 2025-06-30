@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week2\\Week2_NUnit and Moq\\2_Write Testable Code with Moq\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE3AEA4-A601-4C2B-87FA-0817BB3482F9}|CustomerCommLib.csproj|c:\\users\\kiit\\onedrive\\desktop\\dotnetfsesols\\dotnet-fse-solutions-6362995\\week2\\week2_nunit and moq\\2_write testable code with moq\\customercommlib\\customercomm.tests||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDE3AEA4-A601-4C2B-87FA-0817BB3482F9}|CustomerCommLib.csproj|solutionrelative:customercomm.tests||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE3AEA4-A601-4C2B-87FA-0817BB3482F9}|CustomerCommLib.csproj|c:\\users\\kiit\\onedrive\\desktop\\dotnetfsesols\\dotnet-fse-solutions-6362995\\week2\\week2_nunit and moq\\2_write testable code with moq\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE3AEA4-A601-4C2B-87FA-0817BB3482F9}|CustomerCommLib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerComm.Tests",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week2\\Week2_NUnit and Moq\\2_Write Testable Code with Moq\\CustomerCommLib\\CustomerComm.Tests",
+              "RelativeDocumentMoniker": "CustomerComm.Tests",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week2\\Week2_NUnit and Moq\\2_Write Testable Code with Moq\\CustomerCommLib\\CustomerComm.Tests",
+              "RelativeToolTip": "CustomerComm.Tests",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T16:33:29.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week2\\Week2_NUnit and Moq\\2_Write Testable Code with Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerComm.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week2\\Week2_NUnit and Moq\\2_Write Testable Code with Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:32:01.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
