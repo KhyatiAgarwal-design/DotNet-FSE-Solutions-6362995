@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week3\\2_Lab 2 Setting Up the Database Context for a Retail Store\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3D5AFD-ED63-4B96-B3D7-0D08EAF8727D}|RetailEF.csproj|c:\\users\\kiit\\onedrive\\desktop\\dotnetfsesols\\dotnet-fse-solutions-6362995\\week3\\2_lab 2 setting up the database context for a retail store\\code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3D5AFD-ED63-4B96-B3D7-0D08EAF8727D}|RetailEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week3\\2_Lab 2 Setting Up the Database Context for a Retail Store\\Code\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\DotNetFSESols\\DotNet-FSE-Solutions-6362995\\Week3\\2_Lab 2 Setting Up the Database Context for a Retail Store\\Code\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:36:37.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

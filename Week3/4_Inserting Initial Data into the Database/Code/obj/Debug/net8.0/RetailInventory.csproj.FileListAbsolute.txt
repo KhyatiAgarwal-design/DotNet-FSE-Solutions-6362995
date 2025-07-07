@@ -1,0 +1,6 @@
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\obj\Debug\net8.0\RetailInventory.sourcelink.json

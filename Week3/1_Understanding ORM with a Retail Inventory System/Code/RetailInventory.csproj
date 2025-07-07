@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\Category.cs" Link="Category.cs" />
+    <Compile Include="C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\Product.cs" Link="Product.cs" />
+    <Compile Include="C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\KIIT\OneDrive\Desktop\DotNetFSESols\DotNet-FSE-Solutions-6362995\Week3\4_Lab 4 Inserting Initial Data into the Database\Code\RetailContext.cs" Link="RetailContext.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.6" />
+  </ItemGroup>
+
+</Project>
